@@ -1,0 +1,38 @@
+body{
+  font-family: "Acme", sans-serif;
+  font-size: 18px;
+  color: darkblue;
+  margin: 10px 50px 10px 50px;
+  background-color: black;
+  background-image: url(https://images5.alphacoders.com/300/thumb-1920-300757.jpg);
+}
+
+h1{
+  font-family: "Lobster", sans-serif;
+  color: darkblue;
+  font-size:36px;
+}
+
+
+img{
+  float: left;
+  margin-right:10px;
+}
+
+#container{
+  color: darkorange;
+  padding-left: 200px;
+}
+
+#image{
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#duke{
+  font-size: 24px;
+  top: 500px;
+  left: 500px;
+  position: absolute;
+}
